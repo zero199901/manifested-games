@@ -1,0 +1,8 @@
+# Treat manifest / lua / dll / bin as binary so line endings and BOM stay intact.
+*.manifest binary
+*.lua      binary
+*.dll      binary
+*.bin      binary
+*.vdf      binary
+*.json     text
+*.md       text
