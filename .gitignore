@@ -5,3 +5,8 @@ desktop.ini
 *.tmp
 *.swp
 ~$*
+
+# Sync infrastructure (kept local, not pushed)
+sync.log
+sync.ps1
+push-now.bat
